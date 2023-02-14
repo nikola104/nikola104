@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **C++, Spring Boot, Linux**
+- 🌱 I’m currently learning **Android, Xamarian, Flutter, Spring Boot, .NET**
 
 - 📫 How to reach me **vulchinovn@gmail.com**
 
