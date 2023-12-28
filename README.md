@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Android, Xamarian, Flutter, Spring Boot, .NET**
+- 🌱 I’m currently learning **Spring Boot, REACT, Distributed System**
 
 - 📫 How to reach me **vulchinovn@gmail.com**
 
