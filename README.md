@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vulchinovn@gmail.com**
 
-- ⚡ Fun fact **Java is to JavaScript what car is to Carpet**
+- ⚡ Fun fact **Octopuses have three hearts**
 
 
 <p align="left">
