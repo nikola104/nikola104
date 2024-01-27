@@ -1,6 +1,6 @@
 ![MasterHead](https://png.pngtree.com/background/20221103/original/pngtree-welcome-in-lettering-wide-banner-abstract-background-picture-image_1944521.jpg)
 <h1 align="center">Hi 👋, I'm Nikola Valchinov</h1>
-<h3 align="center">"Code is like humor. When you have to explain it, it’s bad"</h3>
+<h3 align="center">"Read More, Learn More, Change The Globe"</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 
